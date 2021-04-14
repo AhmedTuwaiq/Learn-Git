@@ -11,6 +11,7 @@
   * [<div dir="rtl">أنواع أنظمة التحكم بالنسخ VCS</div>](Ch01/03.md)
 - Ch02
   * [<div dir="rtl">تحميل Git على نظام Windows</div>](Ch02/01.md)
+  * [<div dir="rtl">تنزيل Git على نظام MacOS</div>](Ch02/02.md)
 - Ch03
   * [<div dir="rtl">الامر git init الجزء 1</div>](Ch03/01.md)
   * [<div dir="rtl">الامر git init الجزء 2</div>](Ch03/02.md)
